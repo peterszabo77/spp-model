@@ -1,6 +1,7 @@
 # spp-model
 
-A 3D self-propelled particles model
+A 3D self-propelled particles model 
+(implementation of https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226)
 
 ## Software / libraries
 
