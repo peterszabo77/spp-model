@@ -141,7 +141,7 @@ class Scene:
 	def __init__(self):
 		self.camera = Camera()
 		self.framebox = FrameBox()
-		self.flock=Flock(100)
+		self.flock=Flock(N)
 
 	def draw(self):
 		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
